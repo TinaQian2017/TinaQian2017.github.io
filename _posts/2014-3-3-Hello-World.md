@@ -14,6 +14,6 @@ The other important job is standardization. Data cleaning also helps to improve 
 
 The work of this editor is vital. If we consider conducting data analysis as constructing a building, data cleaning is the foundation of the building. Data of good [quality](http://searchdatamanagement.techtarget.com/definition/data-quality) is the premise of getting useful analysis outcomes. If the data analyzed is incorrect in the beginning, it is hard to imagine that the model built upon the data can be trustful. Data cleaning makes sure that no time and money is wasted by bad data preparation. Chronologically, the responsibilities of data cleaning can be concluded in the figure below.
 
-![](data_cleaning.jpg)
+![](http://idatassist.com/wp-content/uploads/2015/08/Data-Cleaning-Google-Images-Fennel-Aurora-jpg.jpg)
 
 According to the figure, we know that the magic work that data cleaning does is complex. The expensive and time-consuming work creates many jobs for data analysts. If you are interested, more information about data cleaning approaches and challenges can be found [here](http://www.betterevaluation.org/sites/default/files/data_cleaning.pdf).
