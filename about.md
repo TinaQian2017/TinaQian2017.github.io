@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hi, my name is **Tina Qian**. I am a Data Scientist & AI Full-Stack Developer based in Canada. I was born in China and have a passion for building practical AI tools that improve everyday workflows.
+Hi, my name is **Tina Qian**. I am a Data Scientist & AI Full-Stack Developer based in China. I have a passion for building practical AI tools that improve everyday workflows.
 
 ### Open-Source Projects
 
@@ -14,12 +14,6 @@ I actively contribute to open-source projects in the AI and data space. One of m
 
 Check out more of my work on my [GitHub page](https://github.com/TinaQian2017).
 
-### More Information
-
-- [GitHub](https://github.com/TinaQian2017)
-- [LinkedIn](https://www.linkedin.com/in/yue-qian-0b7110102/)
-- [Facebook](https://www.facebook.com/yue.qian.1441)
-
 ### Contact me
 
-[qyue2014@hotmail.com](mailto:qyue2014@hotmail.com)
+- [LinkedIn](https://www.linkedin.com/in/yue-qian-0b7110102/)
